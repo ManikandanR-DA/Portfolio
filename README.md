@@ -20,7 +20,7 @@
 
 ### Skills Used:
 Formulas, VLOOKUP, XLOOKUP, INDEX-MATCH, MODE, IF, NESTED IF, Pivot Tables, Slicers, Data Cleaning, Dashboarding
-- [View Project]()
+- [View Project](https://github.com/ManikandanR-DA/Excelproject/tree/main/Excel%20Capstone%20Project%20-%20Healthcare%20Analysis%20and%20Insights)
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/manikandan-r-227b8a18a/)

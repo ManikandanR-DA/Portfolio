@@ -1,122 +1,72 @@
-┌─────────────────────────────────────────────────────────────┐
-│                    COVER PAGE                               │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│                   Professional Photo                        │
-│                    (200x200 pixels)                         │
-│                                                              │
-│            DATA ANALYST PORTFOLIO                           │
-│                                                              │
-│            John Smith                                       │
-│            Data Analyst | Power BI | SQL | Excel            │
-│                                                              │
-│            📧 john.smith@email.com | 📱 +1-234-567-8900     │
-│            🔗 LinkedIn.com/in/johnsmith                     │
-│            🔗 GitHub.com/johnsmith                          │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
+# Hi there, I'm Manikandan R 👋
 
-════════════════════════════════════════════════════════════════
+### 📊 Data Analyst 
+Driven and detail-oriented Data Analyst with hands-on experience turning raw datasets into high-impact business stories. I specialize in the complete analytics lifecycle—from rigorous data cleaning to building interactive dashboards and delivering actionable insights that improve operational efficiency and solve complex, real-world business problems.
 
-┌─────────────────────────────────────────────────────────────┐
-│                 PAGE 2: EXECUTIVE SUMMARY                   │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│ ABOUT ME                                                     │
-│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-│                                                              │
-│ Data Analyst with 3+ years of experience in IT operations   │
-│ and business analytics. Specialized in creating automated   │
-│ dashboards, optimizing processes, and delivering business   │
-│ insights through data analysis. Proven track record of      │
-│ reducing costs by $500K+ and improving operational         │
-│ efficiency by 25-35% through data-driven initiatives.       │
-│                                                              │
-│ KEY STRENGTHS                                                │
-│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-│ • Cost Analysis & Optimization                              │
-│ • Performance Monitoring & Reporting                        │
-│ • Dashboard Design & Automation                             │
-│ • Root Cause Analysis & Problem Solving                     │
-│ • Stakeholder Communication & Reporting                     │
-│                                                              │
-│ TECHNICAL PROFICIENCY                                        │
-│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-│ Expert:   Excel (VLOOKUP, Pivot Tables, Advanced Formulas)  │
-│ Advanced: Power BI (DAX, Data Modeling, Dashboards)         │
-│ Intermediate: SQL (Queries, Joins, Subqueries)              │
-│ Basic:    Python (Pandas, Automation)                       │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
+---
 
-════════════════════════════════════════════════════════════════
+## 🛠️ Technical Stack & Tools
 
-┌─────────────────────────────────────────────────────────────┐
-│                     PAGES 3-4: PROJECT 1                    │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│ PROJECT: IT Infrastructure Cost Optimization                │
-│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-│                                                              │
-│ OBJECTIVE                                                    │
-│ Analyze annual IT spending to identify $300K+ cost savings  │
-│ without compromising service quality or availability.       │
-│                                                              │
-│ TOOLS USED: Excel | Power BI | SQL                          │
-│                                                              │
-│ KEY FINDINGS                                                 │
-│ ┌──────────────────────────────────────────────────────┐    │
-│ │ 1. Unused Licenses: $127,500 annual waste            │    │
-│ │ 2. Cloud Inefficiency: $185,000 optimization oppty  │    │
-│ │ 3. Vendor Consolidation: $75,000 savings            │    │
-│ │ 4. Hardware Refresh: Staggered replacement plan     │    │
-│ └──────────────────────────────────────────────────────┘    │
-│                                                              │
-│ [DASHBOARD SCREENSHOT HERE]                                 │
-│ Caption: Cost breakdown by category (Power BI dashboard)    │
-│                                                              │
-│ BUSINESS IMPACT                                              │
-│ • Annual Savings Identified: $387,500                        │
-│ • Implementation Timeline: 3-6 months                        │
-│ • Payback Period: 2-4 weeks for quick wins                  │
-│ • ROI: 9,687x return on analysis time                        │
-│                                                              │
-│ APPROACH USED                                                │
-│ 1. Extracted 18 months of billing data (cloud + licensing)  │
-│ 2. Cleaned and standardized vendor naming & classifications  │
-│ 3. Analyzed cost trends and identified inefficiencies       │
-│ 4. Benchmarked against industry standards                   │
-│ 5. Developed implementation roadmap with phasing strategy    │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
+* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL)
+* **Data Visualization & Reporting:** Power BI (DAX, Data Modeling), Microsoft Excel (Advanced Formulas, Pivot Tables)
+* **Environments & Frameworks:** Jupyter Notebook, Google Colab, GitHub
+* **Core Competencies:** Exploratory Data Analysis (EDA), Data Cleaning & Transformation, KPI Tracking, Business Reporting & Storytelling, Process Improvement
 
-════════════════════════════════════════════════════════════════
+---
 
-┌─────────────────────────────────────────────────────────────┐
-│                   PAGES 5-6: PROJECT 2                      │
-│                 [SIMILAR LAYOUT]                            │
-└─────────────────────────────────────────────────────────────┘
+## 🚀 Flagship Capstone Project
 
-════════════════════════════════════════════════════════════────
+### 🎓 [Analysis of Factors Influencing Student Success and Dropout](https://github.com/ManikandanR-DA/Portfolio)
+* **Tools Used:** Python (Data Cleaning & Transformation) ➡️ Power BI (Interactive Dashboard & Insights)
+* **Objective:** Analyzed academic, socio-economic, behavioral, and institutional factors to predict student outcomes, reduce dropout rates, and help educational institutions implement timely interventions.
+* **Key Insights:**
+  * **Critical Red Flags:** Early academic struggles and low attendance serve as the strongest predictors of dropout risk.
+  * **Socio-Economic Factors:** Financial instability heavily correlates with indirect, negative impacts on final academic outcomes.
+  * **Retention Power:** Proactive institutional support systems significantly curb dropout rates and drive student success.
+* **Business & Strategic Value:** Optimizes resource allocation (faculty, mentors), minimizes tuition revenue loss from dropouts, and establishes a data-driven framework to predict at-risk students long before final failures occur.
 
-[PROJECTS 3, 4, 5... same layout pattern]
+---
 
-════════════════════════════════════════════════════════════════
+## 📁 Featured Projects Portfolio
 
-┌─────────────────────────────────────────────────────────────┐
-│                   FINAL PAGE: CONTACT                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│ LET'S CONNECT                                                │
-│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-│                                                              │
-│ Email:   john.smith@email.com                               │
-│ Phone:   +1-234-567-8900                                    │
-│ LinkedIn: linkedin.com/in/johnsmith                         │
-│ GitHub:  github.com/johnsmith                               │
-│ Website: johnsmith-portfolio.com                            │
-│                                                              │
-│ I'm actively seeking Data Analyst roles where I can         │
-│ deliver high-impact business solutions. Let's talk!         │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
+### 🏥 1. [Healthcare Data Analysis and Insights](https://github.com/ManikandanR-DA/Excelproject/tree/main/Excel%20Capstone%20Project%20-%20Healthcare%20Analysis%20and%20Insights)
+* **Tools:** Excel, Power BI
+* **Core Insight:** Revealed that obese, diabetic, and smoking patients (especially over age 45) drive disproportionately higher healthcare costs. Non-smokers showed a 66% baseline of being cancer-free.
+* **Business Value:** Outlines a clear strategy for preventative care programs and age-based health monitoring to heavily optimize medical resources and mitigate cost drivers.
+
+### 🎧 2. [Audible Performance Report (1998–2025)](https://github.com/ManikandanR-DA/Portfolio)
+* **Tools:** Excel, Power BI
+* **Core Insight:** Unearthed a heavy English-language market dominance (70%+), paired with clear, rising niches for regional languages like Tamil, German, and Spanish. Data showed long-form audiobooks (>1 hr) with premium pricing models hold the strongest user engagement.
+* **Business Value:** Guides localized content acquisition, pricing matrix models, and targeted marketing strategy to capture regional market shares.
+
+### 🛒 3. [E-Commerce Customer Churn Analysis](https://github.com/ManikandanR-DA/Portfolio)
+* **Tools:** SQL (Joins, Subqueries, CTEs, Aggregations)
+* **Core Insight:** Mapped critical churn drivers back to customer service complaint patterns, satisfaction scores, and logistics metrics (e.g., distance from warehouse). 
+* **Business Value:** Empowers e-commerce operations to flags high-risk accounts early for automated retention campaigns, protecting high-value demographics (City Tier-1, married, frequent purchasers).
+
+### 💬 4. [Survey Feedback Analyzer](https://github.com/ManikandanR-DA/Portfolio)
+* **Tools:** Python (NumPy, Pandas, Matplotlib, Seaborn) | Google Colab
+* **Core Insight:** Automated text analysis revealed highly detailed, longer user feedback contains the most valuable structural critique, tracking specific pain points indicated by keywords like "poor" or "bad."
+* **Business Value:** Replaces manual review structures with automated sentiment monitoring to instantly evaluate operational gaps and drive rapid service quality iterations.
+
+### 📈 5. [Marketing Campaign Performance Insights](https://github.com/ManikandanR-DA/Portfolio)
+* **Tools:** Python (NumPy, Pandas, Matplotlib, Seaborn) | Google Colab
+* **Core Insight:** Segmented multi-channel ROI across geographies, showing that customer acquisition costs differ vastly by location and that campaign engagement directly scales conversion rates.
+* **Business Value:** Optimizes budget allocation by routing spend away from underperforming channels into high-ROI segments, drastically reducing total customer acquisition costs (CAC).
+
+---
+
+## 🎯 Portfolio Strengths at a Glance
+* **Multi-Domain Versatility:** Proven capability managing data structures across **Healthcare, Media, E-commerce, Marketing, Customer Feedback, and Higher Education.**
+* **End-to-End Execution:** Demonstrates competence across the entire data lifecycle: **Ingestion ➡️ Messy Data Cleaning ➡️ Statistical Processing ➡️ Executive Dashboard Delivery.**
+* **Stakeholder-Focused Storytelling:** Heavy focus on converting algorithmic outputs into concrete strategic, operational, and financial value metrics.
+
+---
+
+## 📫 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/manikandan-r-227b8a18a](https://www.linkedin.com/in/manikandan-r-227b8a18a/)
+* **GitHub Portfolio:** [github.com/ManikandanR-DA](https://github.com/ManikandanR-DA)
+* **Email:** [manikandanravi254@gmail.com](mailto:manikandanravi254@gmail.com)
+
+**Career Objective:** To secure a high-impact Data Analyst / Business Analyst role where I can combine analytical tools with deep operational logic to deliver data-driven business choices.

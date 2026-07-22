@@ -34,17 +34,17 @@ Driven and detail-oriented Data Analyst with hands-on experience turning raw dat
 * **Core Insight:** Revealed that obese, diabetic, and smoking patients (especially over age 45) drive disproportionately higher healthcare costs. Non-smokers showed a 66% baseline of being cancer-free.
 * **Business Value:** Outlines a clear strategy for preventative care programs and age-based health monitoring to heavily optimize medical resources and mitigate cost drivers.
 
-### 🎧 2. [Audible Performance Report (1998–2025)](https://github.com/ManikandanR-DA/Portfolio)
+### 🎧 2. [Audible Performance Report (1998–2025)](https://github.com/ManikandanR-DA/Power-BI-Audible-Performance-Report-1998-2025-)
 * **Tools:** Excel, Power BI
 * **Core Insight:** Unearthed a heavy English-language market dominance (70%+), paired with clear, rising niches for regional languages like Tamil, German, and Spanish. Data showed long-form audiobooks (>1 hr) with premium pricing models hold the strongest user engagement.
 * **Business Value:** Guides localized content acquisition, pricing matrix models, and targeted marketing strategy to capture regional market shares.
 
-### 🛒 3. [E-Commerce Customer Churn Analysis](https://github.com/ManikandanR-DA/Portfolio)
+### 🛒 3. [E-Commerce Customer Churn Analysis](https://github.com/ManikandanR-DA/DA---SQL-Project)
 * **Tools:** SQL (Joins, Subqueries, CTEs, Aggregations)
 * **Core Insight:** Mapped critical churn drivers back to customer service complaint patterns, satisfaction scores, and logistics metrics (e.g., distance from warehouse). 
 * **Business Value:** Empowers e-commerce operations to flags high-risk accounts early for automated retention campaigns, protecting high-value demographics (City Tier-1, married, frequent purchasers).
 
-### 💬 4. [Survey Feedback Analyzer](https://github.com/ManikandanR-DA/Portfolio)
+### 💬 4. [Survey Feedback Analyzer](https://github.com/ManikandanR-DA/DA-Python-Project)
 * **Tools:** Python (NumPy, Pandas, Matplotlib, Seaborn) | Google Colab
 * **Core Insight:** Automated text analysis revealed highly detailed, longer user feedback contains the most valuable structural critique, tracking specific pain points indicated by keywords like "poor" or "bad."
 * **Business Value:** Replaces manual review structures with automated sentiment monitoring to instantly evaluate operational gaps and drive rapid service quality iterations.
